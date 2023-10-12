@@ -1,0 +1,223 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    transition: 0.5s;
+}
+
+html {
+    scroll-behavior: smooth;
+    transition: 0.5s;
+}
+.nav-link {
+    transition: 0.5s !important;
+    color: #ffffff !important;
+    font-weight: bold !important;
+    padding: 10px !important;
+    font-size: 16px !important; 
+    text-transform: capitalize !important;
+}
+.nav-link:hover{
+    transition: 0.5s !important;
+    background-color: #1D77DB !important;
+    color: white !important;
+    padding: 10px !important;
+    border-radius: 100px !important;
+    padding: 10px;
+}
+h4 {
+    letter-spacing: 2px !important;
+    font-weight: 700;
+    font-size: 20px !important;
+}
+h1 {
+    font-size: 65px !important;
+    font-weight: 700;
+    margin: 15px 0 15px !important;
+    color: #ffffff !important;
+}
+h3 {
+    font-weight: 700;
+    font-size: 25px !important;
+}
+
+.about-text h2 {
+    color: #1D77DB;
+    font-size: 65px;
+    text-transform: capitalize;
+    font-weight: 700;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #85BFFF;
+}
+
+.about-text h5 {
+    letter-spacing: 2px;
+    font-size: 28px;
+    margin-bottom: 25px;
+    font-weight: 700;
+    text-transform: capitalize;
+    color: #ffffff;
+}
+
+.about-text p {
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
+    text-align: justify;
+    color: #ffffff;
+}
+
+.card2 {
+    padding: 20px 35px !important;
+    background: #002557 !important;
+    border-radius: 20px !important;
+    position: relative !important;
+    overflow: hidden !important;
+    text-align: center !important;
+    border: 1px solid #85BFFF !important;
+}
+
+.card2 i {
+    font-size: 50px !important;
+    display: block !important;
+    text-align: center !important;
+    margin: 25px 0 !important;
+    color: #ffffff !important;
+
+}
+
+.card2 h5 {
+    color:#85BFFF !important;
+    font-size: 23px !important;
+    margin-bottom: 15px !important;
+}
+        
+.skill-bar {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+
+.skill-bar p {
+    text-align: left;
+}
+
+.skill-box {
+    text-align: right;
+    width: 100%;
+    background-color:#85BFFF;
+    border-radius: 10px;
+}
+
+.html {
+    width: 90%;
+    background-color:#1D77DB;
+    border-radius: 10px;
+    color: #ffffff;
+}
+
+.css {
+    width: 78%;
+    background-color:#1D77DB;
+    border-radius: 10px;
+    color: #ffffff;
+}
+
+.javascript {
+    width: 70%;
+    background-color:#1D77DB;
+    border-radius: 10px;
+    color: #ffffff;
+}
+
+.tailwind {
+    width: 75%;
+    background-color:#1D77DB;
+    border-radius: 10px;
+    color: #ffffff;
+}
+
+.java {
+    width: 95%;
+    background-color:#1D77DB;
+    border-radius: 10px;
+    color: #ffffff;
+}
+
+.php {
+    width: 70%;
+    background-color:#1D77DB;
+    border-radius: 10px;
+    color: #ffffff;
+}
+
+.mysql {
+    width: 90%;
+    background-color:#1D77DB;
+    border-radius: 10px;
+    color: #ffffff;
+}
+
+.phyton {
+    width: 55%;
+    background-color:#1D77DB;
+    border-radius: 10px;
+    color: #ffffff;
+}
+
+.routing {
+    width: 95%;
+    background-color:#1D77DB;
+    border-radius: 10px;
+    color: #ffffff;
+}
+
+.cisco {
+    width: 90%;
+    background-color:#1D77DB;
+    border-radius: 10px;
+    color: #ffffff;
+}
+
+.installation {
+    width: 95%;
+    background-color:#1D77DB;
+    border-radius: 10px;
+    color: #ffffff;
+}
+
+.administration {
+    width: 90%;
+    background-color:#1D77DB;
+    border-radius: 10px;
+    color: #ffffff;
+}
+.card {
+    border: none !important;
+    background-color: transparent !important;
+}
+
+
+.contact {
+    padding: 30px 0;
+    box-sizing: border-box;
+    text-align: center;
+    float: center;
+}
+
+.contact a:visited {
+    color: #85BFFF;
+}
+
+.contact h4 {
+    color: #1D77DB;
+    padding-bottom: 10px;
+}
+
+.contact p {
+    color: #1D77DB;
+    font-size: 18px;
+}
