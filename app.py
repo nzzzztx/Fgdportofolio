@@ -14,3 +14,5 @@ def get_info():
      return jsonify ({
           'msg': 'GET info'
      })
+if _name_ == '_main_':
+     app.run('0.0.0.0', port=5000, debug=True)
